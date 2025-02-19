@@ -1,1 +1,3 @@
 Creating a new file to learn branching in git!
+
+Adding new line directly from remote repository to test rebase.
